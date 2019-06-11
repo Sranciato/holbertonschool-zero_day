@@ -1,3 +1,3 @@
-**Holberton day zero**
+**Updated README**
 
 # holbertonschool-zero_day

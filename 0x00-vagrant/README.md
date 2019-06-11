@@ -1,0 +1,1 @@
+**I have  entered the command line uname into ubuntu vm and written the text into a file**
